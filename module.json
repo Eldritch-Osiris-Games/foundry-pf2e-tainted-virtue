@@ -1,0 +1,54 @@
+	{
+		"name": "tainted-virtue-the-blackguard",
+		"title": "Tainted Virtue: The Blackguard",
+		"description": "Archetypes, feats, and items from Tainted Virtue: The Blackguard by Mark Clark and Eldritch Oasis Games.",
+		"version": "0.9",
+		"author": "Pardack",
+		"packs": [{
+				"label": "Blackguard Archetype",
+				"type": "Item",
+				"name": "blackguard-archetype",
+				"path": "./packs/blackguard-archetype.db",
+				"system": "pf2e",
+				"package": "tainted-virtue-the-blackguard",
+				"private": false
+			},
+			{
+				"label": "Tainted Virtue Class and Archetype Feats",
+				"type": "Item",
+				"name": "tainted-virtue-class-and-archetype-feats",
+				"path": "./packs/tainted-virtue-class-and-archetype-feats.db",
+				"system": "pf2e",
+				"package": "tainted-virtue-the-blackguard",
+				"private": false
+			},
+			{
+				"label": "Tainted Virtue Magic Items & Misc",
+				"type": "Item",
+				"name": "tainted-virtue-magic-items--misc",
+				"path": "./packs/tainted-virtue-magic-items--misc.db",
+				"system": "pf2e",
+				"package": "tainted-virtue-the-blackguard",
+				"private": false
+			},
+			{
+				"label": "Ur-Priest Class Archetype",
+				"type": "Item",
+				"name": "ur-priest-class-archetype",
+				"path": "./packs/ur-priest-class-archetype.db",
+				"system": "pf2e",
+				"package": "tainted-virtue-the-blackguard",
+				"private": false
+			}
+		],
+		"esmodules": [],
+		"styles": [],
+		"socket": false,
+		"system": [
+			"pf2e"
+		],
+		"minimumCoreVersion": "0.10",
+		"compatibleCoreVersion": "0.10.285",
+		"minimumSystemVersion": "4.06"
+
+	}
