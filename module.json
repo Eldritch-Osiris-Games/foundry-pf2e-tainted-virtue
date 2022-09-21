@@ -1,7 +1,7 @@
 	{
 		"name": "tainted-virtue-the-blackguard",
 		"title": "Tainted Virtue: The Blackguard",
-		"description": "Archetypes, feats, and items from Tainted Virtue: The Blackguard by Mark Clark and Eldritch Oasis Games.",
+		"description": "Archetypes, feats, and items from Tainted Virtue: The Blackguard by Mark Clark and Eldritch Osiris Games.",
 		"version": "0.9",
 		"author": "Pardack",
 		"packs": [{
@@ -49,6 +49,8 @@
 		],
 		"minimumCoreVersion": "0.10",
 		"compatibleCoreVersion": "0.10.285",
-		"minimumSystemVersion": "4.06"
-
+		"minimumSystemVersion": "4.06",
+		"manifest":"https://raw.githubusercontent.com/Eldritch-Osiris-Games/foundry-pf2e-tainted-virtue/main/module.json",
+		"download": "https://github.com/Eldritch-Osiris-Games/foundry-pf2e-tainted-virtue/archive/refs/heads/main.zip",
+		"url": "https://github.com/Eldritch-Osiris-Games/foundry-pf2e-tainted-virtue/"
 	}
